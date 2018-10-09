@@ -1,0 +1,7 @@
+io\jenkins\plugins\TestExampleProjectAction.class
+io\jenkins\plugins\TestExamplePublisher$DescriptorImpl.class
+io\jenkins\plugins\TestExamplePublisher\DescriptorImpl\doCheckName.stapler
+io\jenkins\plugins\TestExamplePublisher.class
+io\jenkins\plugins\TestExamplePublisher.stapler
+META-INF\annotations\hudson.Extension
+io\jenkins\plugins\TestExampleBuildAction.class
